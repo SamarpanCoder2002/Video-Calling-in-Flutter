@@ -11,9 +11,9 @@
 
 
 
-<b><h3><center>Show ❤ by staring this repo</center></h3></b>
+<b><h3><center>🙏 Show ❤ by staring this repo</center></h3></b>
 
-<br/>
+
 
 ### <b> 🙌 How to setup this project?</b>
 
