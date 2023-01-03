@@ -3,7 +3,7 @@
 ### ✨ <b>Learn from Tutorial</b>
 <br/>
 
-<a href="https://www.youtube.com/watch?v=5mxaNizy35k">
+<a href="https://www.youtube.com/watch?v=5mxaNizy35k" target="_blank">
 <img src="https://i.ytimg.com/vi/5mxaNizy35k/maxresdefault.jpg">
 </a>
 
