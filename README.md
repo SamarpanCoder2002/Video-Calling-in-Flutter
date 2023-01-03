@@ -26,7 +26,7 @@
     <br/>
 
     - `appSignKey`=[Copy appSignKey from ZegoCloud Admin Dashboard]
-- Open terminal and write `flutter pub get`
+- Open terminal and run `flutter pub get`
 - Run the Project and Have Fun.
 
 
