@@ -3,7 +3,9 @@
 ### ✨ <b>Learn from Tutorial</b>
 <br/>
 
-![Click here to see the tutorial](https://i.ytimg.com/vi/5mxaNizy35k/maxresdefault.jpg)
+<a href="https://www.youtube.com/watch?v=5mxaNizy35k">
+<img src="https://i.ytimg.com/vi/5mxaNizy35k/maxresdefault.jpg">
+</a>
 
 
 
