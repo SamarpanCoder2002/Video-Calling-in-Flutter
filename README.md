@@ -1,16 +1,30 @@
-# video_meet
+<center><h1>Video Calling in Flutter</h1></center>
 
-A new Flutter project.
+## ✨ Learn from Tutorial
 
-## Getting Started
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mxaNizy35k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
+<h2><center>Show ❤ by staring this repo</center></h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🙌 How to setup this project?
+
+- In your folder write `git init`
+- `git clone https://github.com/SamarpanCoder2002/Video-Calling-in-Flutter.git`
+- `cd video_meet`
+- Add `.env` file at the root of the project
+- Generate `AppId` and `AppSignKey` from [ZegoCloud Console](https://www.zegocloud.com/uikits?utm_source=youtube&utm_medium=influencer&utm_campaign=2301-samarpan-yt-ljp)
+- Under the `.env` file make two variables,<br/>
+
+    - `appID`=[Copy appId from ZegoCloud Admin Dashboard]
+    <br/>
+
+    - `appSignKey`=[Copy appSignKey from ZegoCloud Admin Dashboard]
+- Open terminal and write `flutter pub get`
+- Run the Project and Have Fun.
+
+
+
