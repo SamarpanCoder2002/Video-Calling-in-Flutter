@@ -1,16 +1,19 @@
-<center><h1>Video Calling in Flutter</h1></center>
+<center><h1>Video Calling in Flutter 🔥</h1></center>
 
-## ✨ Learn from Tutorial
+### ✨ <b>Learn from Tutorial</b>
+<br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5mxaNizy35k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Click here to see the tutorial](https://i.ytimg.com/vi/5mxaNizy35k/maxresdefault.jpg)
+
+
+
+
+
+<b><h3><center>Show ❤ by staring this repo</center></h3></b>
 
 <br/>
 
-<h2><center>Show ❤ by staring this repo</center></h2>
-
-<br/>
-
-## 🙌 How to setup this project?
+### <b> 🙌 How to setup this project?</b>
 
 - In your folder write `git init`
 - `git clone https://github.com/SamarpanCoder2002/Video-Calling-in-Flutter.git`
