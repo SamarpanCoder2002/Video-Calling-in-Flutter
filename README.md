@@ -8,7 +8,7 @@
 </a>
 
 
-
+### 👉 Read the tutorial blog here: https://blog.samarpandasgupta.in/flutter-video-call
 
 
 <b><h3><center>🙏 Show ❤ by staring this repo</center></h3></b>
